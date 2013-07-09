@@ -2,3 +2,5 @@
     Customized of HTTPerf
 ========================================
 This code is based on HTTPerf version 0.9.0. It extends HTTPerf by providing a functionality to measure and report the distribution of response times for HTTP requests.
+
+For information about HTTPerf, please have a look at README.httperf
